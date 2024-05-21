@@ -1,0 +1,96 @@
+{
+  "status": 1,
+  "message": "Get List ",
+  "data": [
+    {
+      "id": 9,
+      "question": "How are Items packaged? How should I package a sold item?",
+      "answer": "We require all sellers to package items as discreetly as possible. If additional discretion is needed, we advise getting in touch with the seller directly and discussing your specific requirements.",
+      "deleted_at": null,
+      "created_at": "2024-03-08T12:34:09.000000Z",
+      "updated_at": "2024-03-26T12:01:27.000000Z",
+      "order": "1"
+    },
+    {
+      "id": 7,
+      "question": "How can I stay safe while selling?",
+      "answer": "Avoid sharing personal details like your full name, address, or bank information. If someone requests for your information, let us know. Keep all communication with buyers exclusively on Sage, we can protect you and it maintains your seller exclusivity!",
+      "deleted_at": null,
+      "created_at": "2024-03-08T12:34:09.000000Z",
+      "updated_at": "2024-03-26T12:01:23.000000Z",
+      "order": "10"
+    },
+    {
+      "id": 8,
+      "question": "Are buyers protected?",
+      "answer": "Certainly! Buyers are protected. In the rare event of issues, our dedicated support team will mediate between the buyer and seller to achieve a fair resolution.",
+      "deleted_at": null,
+      "created_at": "2024-03-08T12:34:09.000000Z",
+      "updated_at": "2024-03-26T12:01:23.000000Z",
+      "order": "2"
+    },
+    {
+      "id": 10,
+      "question": "Who sends my used goodies to the buyer?",
+      "answer": "Currently, we don't provide order fulfillment services. After an order is placed, the seller must handle shipping to the buyer. For anonymity, it's advised not to include a return address on the package. If you are selling internationally, make sure you factor in international shipping costs.",
+      "deleted_at": null,
+      "created_at": "2024-03-08T12:34:09.000000Z",
+      "updated_at": "2024-03-26T12:01:23.000000Z",
+      "order": "3"
+    },
+    {
+      "id": 1,
+      "question": "Are there any sign up costs and what do you take from sales?",
+      "answer": "Nope! Its free to sign up as a buyer and seller! And no! We keep our hands off, you retain 100% of the profits. This is your world, we are just living in it.",
+      "deleted_at": null,
+      "created_at": "2024-03-08T12:34:09.000000Z",
+      "updated_at": "2024-03-26T12:01:23.000000Z",
+      "order": "4"
+    },
+    {
+      "id": 2,
+      "question": "Can I remain anonymous?",
+      "answer": "You sure can! For buyers we have an incognito mode where you can buy something and only show the delivery address, but otherwise (and for sellers aswell), you show as much as you’re comfortable with. Create your username, create your fantasy.",
+      "deleted_at": null,
+      "created_at": "2024-03-08T12:34:09.000000Z",
+      "updated_at": "2024-03-26T12:01:23.000000Z",
+      "order": "5"
+    },
+    {
+      "id": 3,
+      "question": "Can you only buy/sell used underwear on Sage?",
+      "answer": "You can sell/buy anything! Sage is a platform for all fetishes and interests which benefit both buyer and seller. Products from sweaty socks to bath water, from dirty tissues to uncovering new kinks. Find your fetish on Sage.",
+      "deleted_at": null,
+      "created_at": "2024-03-08T12:34:09.000000Z",
+      "updated_at": "2024-03-26T12:01:23.000000Z",
+      "order": "6"
+    },
+    {
+      "id": 4,
+      "question": "Why do people buy used panties?",
+      "answer": "People buy used panties for a range of reasons! Often influenced by personal preferences and desires. One big player in the game is pheromones, those natural chemicals in bodily fluids that crank up the arousal factor. Mix in a sprinkle of fantasy, and bam! You've got a purchase that tickles the fancy of many!",
+      "deleted_at": null,
+      "created_at": "2024-03-08T12:34:09.000000Z",
+      "updated_at": "2024-03-26T12:01:23.000000Z",
+      "order": "7"
+    },
+    {
+      "id": 5,
+      "question": "Can I communicate with buyers/sellers and make special requests?",
+      "answer": "Yes! Once you find a item or a buyer you are interested in, there is an option to message. You can make special requests that can customise to your fetish and talk about price adjustments.",
+      "deleted_at": null,
+      "created_at": "2024-03-08T12:34:09.000000Z",
+      "updated_at": "2024-03-26T12:01:23.000000Z",
+      "order": "8"
+    },
+    {
+      "id": 6,
+      "question": "Do I need to provide sellers with my actual address?",
+      "answer": "For you order to be delivered to your home, then yes. Alternatively, you have the option to consider alternatives such as P.O. Boxes or virtual addresses if you'd rather keep your home address private.",
+      "deleted_at": null,
+      "created_at": "2024-03-08T12:34:09.000000Z",
+      "updated_at": "2024-03-26T12:01:23.000000Z",
+      "order": "9"
+    }
+  ]
+}
